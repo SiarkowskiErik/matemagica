@@ -7,6 +7,12 @@ section div h3{
 .imagem{
     width: 95%;
     height: 30%;
+    box-shadow: 10px -5px 
+    #BFBD93;
+    color: #310606;     
+    color: #0b340b;
+    color: #BFBD93;
+    color: F6F0E0;
 }
 .texto {
     font-size: 40px;
@@ -38,6 +44,7 @@ section div img{
     height: 200px;
 }
 .cor{
+    border: #310606 2px solid;
     background-color: #0b340b;
     text-decoration: none;
 
